@@ -286,7 +286,7 @@
 		}
 	},
 	{
-		"id": 29,
+		"id": "29A",
 		"url": "https://live.staticflickr.com/65535/50325890902_ccf1d72856_o.png",
 		"variableName": "Semi Automatic Printer",
 		"typeName": "Machine",
@@ -297,14 +297,14 @@
 		}
 	},
 	{
-		"id": 29,
+		"id": "29B",
 		"url": "https://live.staticflickr.com/65535/50325714551_9aca0e34d0_o.png",
 		"variableName": "Fully Automatic Printer",
 		"typeName": "Machine",
 		"values": {
 			"manufacturer": "YAMAHA",
 			"category": "Printer",
-			"description": "Type:Vision \n\nBoard Size:50*50mm-380*350mm \n\nTact Time:16 sec \n\nPrinting speed:0-8000MM/Min \n\nPower Supply:1PAC 220v 50/60 Hz \n\nWeight:350 kg \n\nWarranty:1 year"
+			"description": "Type:Vision \n\nBoard Size:50*50mm-380*350mm \n\nTact Time:16 sec \n\nAccuracy:+-0.025mm \n\nPower Supply:AC 220v 50/60 Hz \n\nAir Pressure:0.5MPa \n\nDimension:1500*1840*1850 mm \n\nWeight:1700 kg \n\nWarranty:1 year"
 		}
 	},
 	{
@@ -440,7 +440,7 @@
 		}
 	},
 	{
-		"id": 44,
+		"id": "213A",
 		"url": "https://live.staticflickr.com/65535/50326022057_2eee2c5d1c_o.png",
 		"variableName": "YAMAHA YG100 213A Nozzle",
 		"typeName": "Parts",
@@ -452,7 +452,7 @@
 		}
 	},
 	{
-		"id": 214,
+		"id": "214A",
 		"url": "https://live.staticflickr.com/65535/50326022017_fb0be94897_o.png",
 		"variableName": "YAMAHA YG100 214A Nozzle",
 		"typeName": "Parts",
@@ -562,7 +562,7 @@
 		}
 	},
 	{
-		"id": 58,
+		"id": "CF081ER 40081762",
 		"url": "https://live.staticflickr.com/65535/50325281628_c72f42612f_o.png",
 		"variableName": "JUKI CF 8X2 Feeder",
 		"typeName": "Parts",
@@ -574,7 +574,7 @@
 		}
 	},
 	{
-		"id": 59,
+		"id": "E1004706AB0",
 		"url": "https://live.staticflickr.com/65535/50325281628_c72f42612f_o.png",
 		"variableName": "JUKI CF 8X4 Feeder",
 		"typeName": "Parts",
@@ -603,7 +603,7 @@
 		"variableName": "JUKI 12mm Feeder",
 		"typeName": "Parts",
 		"values": {
-			"partNumber":"61",
+			"partNumber":"E33037060A0",
 			"manufacturer": "JUKI",
 			"category": "Feeder",
 			"description": ""

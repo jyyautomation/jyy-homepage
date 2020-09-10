@@ -286,6 +286,28 @@
 		}
 	},
 	{
+		"id": 29,
+		"url": "https://live.staticflickr.com/65535/50325890902_ccf1d72856_o.png",
+		"variableName": "Semi Automatic Printer",
+		"typeName": "Machine",
+		"values": {
+			"manufacturer": "KINGSUN",
+			"category": "Printer",
+			"description": "Board Size:1200mm \n\nDimension:1700*780*1650 MM \n\nPlatform size:1300*400MM \n\nPCB Size:1200*300MM \n\nPrinting speed:0-8000MM/Min \n\nPower Supply:1PAC 220v 50/60 Hz \n\nWeight:350 kg \n\nWarranty:1 year"
+		}
+	},
+	{
+		"id": 29,
+		"url": "https://live.staticflickr.com/65535/50325714551_9aca0e34d0_o.png",
+		"variableName": "Fully Automatic Printer",
+		"typeName": "Machine",
+		"values": {
+			"manufacturer": "YAMAHA",
+			"category": "Printer",
+			"description": "Type:Vision \n\nBoard Size:50*50mm-380*350mm \n\nTact Time:16 sec \n\nPrinting speed:0-8000MM/Min \n\nPower Supply:1PAC 220v 50/60 Hz \n\nWeight:350 kg \n\nWarranty:1 year"
+		}
+	},
+	{
 		"id": 30,
 		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121054335433.jpg",
 		"variableName": "YAMAHA FT 8x4 Feeder (0603)",

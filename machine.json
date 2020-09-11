@@ -275,7 +275,7 @@
 		}
 	},
 	{
-		"id": 29,
+		"id": 2459,
 		"url": "https://live.staticflickr.com/65535/50325728351_1a92b9e124_o.png",
 		"variableName": "Accela",
 		"typeName": "Machine",
@@ -286,7 +286,7 @@
 		}
 	},
 	{
-		"id": "29A",
+		"id": "29DFGA",
 		"url": "https://live.staticflickr.com/65535/50325890902_ccf1d72856_o.png",
 		"variableName": "Semi Automatic Printer",
 		"typeName": "Machine",
@@ -297,7 +297,7 @@
 		}
 	},
 	{
-		"id": "29B",
+		"id": "29DFGDB",
 		"url": "https://live.staticflickr.com/65535/50325714551_9aca0e34d0_o.png",
 		"variableName": "Fully Automatic Printer",
 		"typeName": "Machine",
@@ -381,7 +381,7 @@
 	},
 	{
 		"id": 38,
-		"url": "https://live.staticflickr.com/65535/50325741636_92aa517621_o.png",
+		"url": "https://live.staticflickr.com/65535/50329188001_3c070a9dbd_o.png",
 		"variableName": "YAMAHA CL 12mm Feeder",
 		"typeName": "Parts",
 		"values": {

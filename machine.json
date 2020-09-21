@@ -864,7 +864,7 @@
 	},
 	{
 		"id": 87,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121120302030.jpg",
+		"url": "https://live.staticflickr.com/65535/50366759476_7320ebd5d1_o.png",
 		"variableName": "YAMAHA Packing O-Ring",
 		"typeName": "Parts",
 		"values": {
@@ -876,8 +876,8 @@
 	},
 	{
 		"id": 88,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912110624624.jpg",
-		"variableName": "YAMAHA Nozzel SHAFT",
+		"url": "https://live.staticflickr.com/65535/50366063708_3f5e527565_o.png",
+		"variableName": "YAMAHA Nozzle SHAFT",
 		"typeName": "Parts",
 		"values": {
 			"partNumber":"88",
@@ -888,7 +888,7 @@
 	},
 	{
 		"id": 89,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/2016091211070777.jpg",
+		"url": "https://live.staticflickr.com/65535/50366063708_3f5e527565_o.png",
 		"variableName": "YAMAHA Nozzle Shaft",
 		"typeName": "Parts",
 		"values": {
@@ -900,7 +900,7 @@
 	},
 	{
 		"id": 90,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912110818818.jpg",
+		"url": "https://live.staticflickr.com/65535/50366079673_a845a3a114_o.png",
 		"variableName": "YAMAHA Tank chain",
 		"typeName": "Parts",
 		"values": {
@@ -911,48 +911,48 @@
 		}
 	},
 	{
-		"id": 91,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912110957957.jpg",
+		"id": "37W",
+		"url": "https://live.staticflickr.com/65535/50367297232_af6d55380f_o.png",
 		"variableName": "YAMAHA Valve",
 		"typeName": "Parts",
 		"values": {
-			"partNumber":"91",
+			"partNumber":"37W",
 			"manufacturer": "YAMAHA",
 			"category": "Other Parts",
 			"description": "Part Name：VALVE A040-4E1-54W\n\nPART No：KM1-M7162-11X"
 		}
 	},
 	{
-		"id": 92,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121112351235.jpg",
+		"id": "44W",
+		"url": "https://live.staticflickr.com/65535/50366443108_0da33c844f_o.png",
 		"variableName": "YAMAHA Valve",
 		"typeName": "Parts",
 		"values": {
-			"partNumber":"92",
+			"partNumber":"44W",
 			"manufacturer": "YAMAHA",
 			"category": "Other Parts",
 			"description": "Part Name：VALVE A040-4E1-50W  \n\nPART No：KM1-M7162-10X"
 		}
 	},
 	{
-		"id": 93,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121113191319.jpg",
+		"id": "54W",
+		"url": "https://live.staticflickr.com/65535/50367139541_e25e70b1ec_o.png",
 		"variableName": "YAMAHA Valve",
 		"typeName": "Parts",
 		"values": {
-			"partNumber":"93",
+			"partNumber":"54W",
 			"manufacturer": "YAMAHA",
 			"category": "Other Parts",
 			"description": "Part Name：VALVE A010E1-54W\n\nPART No：KM1-M7163-21X"
 		}
 	},
 	{
-		"id": 94,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121114191419.jpg",
+		"id": "56W",
+		"url": "https://live.staticflickr.com/65535/50367139456_19840fc6fa_o.png",
 		"variableName": "YAMAHA Valve",
 		"typeName": "Parts",
 		"values": {
-			"partNumber":"94",
+			"partNumber":"56W",
 			"manufacturer": "YAMAHA",
 			"category": "Other Parts",
 			"description": "Part Name：VALVE A010E1-44W\n\nPart No：KM1-M7163-30X"
@@ -968,18 +968,6 @@
 			"manufacturer": "YAMAHA",
 			"category": "Other Parts",
 			"description": "Part Name: YAMAHA SENSOR, HEAD ASSY\n\nPart No: KGT-M654J-A20"
-		}
-	},
-	{
-		"id": 96,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121055315531.jpg",
-		"variableName": "SENSOR HEAD ASSY",
-		"typeName": "Parts",
-		"values": {
-			"partNumber":"96",
-			"manufacturer": "YAMAHA",
-			"category": "Other Parts",
-			"description": "Part Name:YVL88 YV88X FILTER/n/nPart No:K46-M8527-00X"
 		}
 	},
 	{

@@ -221,13 +221,13 @@
 	},
 	{
 		"id": 22,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2017/03/201703161714151415.jpg",
-		"variableName": "Reflow oven 8800",
+		"url": "https://live.staticflickr.com/65535/50325890932_a4854836c5_o.png",
+		"variableName": "Reflow oven 635LS",
 		"typeName": "Machine",
 		"values": {
 			"manufacturer": "",
 			"category": "Reflow Oven",
-			"description": "Product name:Computer reflow soldering\n\nProduct model:SF 800CM\n\nProductDescription:\nTemperature sensor, safety control mode, abnormal power will automatically cut off Product Details:Standard : up 8 down 8 air furnace,patented hot air management system to make hot air convection more efficientheat capture faster\n\nPLC control system:\n\nPLC + PID closed-loop control, stable andreliable performance, temperature control and curve repeat high precision;\nPC and PLC communication using PC / PPprotocol, is work stability, and to prevent the crash.\nTemperature sensor, safety control mode,abnormal power will automatically cut off;\nLengthened cooling zone, in the largequantities of lead-free process can make the product temperature slow down to45 ℃. The independent coolingstructure, easy maintenance and save time.\n\nComputer control system:\n\nWindows operating interface, is free toswitchthe Chinese and English, and the parameters set convenient and quick.support WindowsXP operating system; the temperature control and display, avariety of features at a glance. the operator registering password, operatingrecords. transport dynamic display. built-in temperature Curve test function,virtual simulation function, save temperature set time.temperature processmonitoring, record the temperature changes in the temperature zone.\n\nInsulation system:\n\nInsulation layer with high-qualityaluminum silicate insulation material, good insulation effect, heating up fast,from room temperature to the working temperature ≤ 15min\n\nHigh-quality high-temperature high-speedmotor transport wind smooth, small vibration, low noise.\n\nAccording to Germany and the UnitedStates imported reflow heating mode and structure to improve research anddevelopment\n\nFurnace with cylinder jacking, safety barsupport, is safe and convenient\n\nSpecial furnace design, good insulation,power consumption of the lowest counterparts\n\nTransmission system:\n\nPCBboard transmission mode using variable frequency variable speed, network cablesynchronization, excellent stability; special high-quality aluminum alloyrails, refueling system to ensure that the rail wide and accurate and highservice life./nEquipped with power protection function of theonline UPS, to ensure that the PCB board after the normal power output, withoutdamage.\n\nDimension (L * W * H):4800*1280*1420\n\nNumber of heating zones:Up / Down 8\n\nNumber of cooling zones:Up 2\n\nEmission requirements:10m3 /min*2( channel )\n\nHeating time:About 15 minutes\n\nTemperature control accuracy:+ - 1.0 ℃\n\nPCB board temperature distribution deviation:+ - 1.5 ℃\n\nPCB maximum width:350mm\n\nHeight of parts:PCB board up / down the 25mm\n\nDirection of transport:Left to right LR (optional: right to left R L)\n\nPCB transport mode:Chain +mesh belt\n\nTransport speed:300-2200 mm / min\n\ncooling method:Forced air cooling"
+			"description": "Product name:Reflow Oven 6 Zone\n\nBrand Name: Kingsun\n\nProduct model:RF 635LS\n\nProductDescription:\nOven type: Belt conveyor oven PID Controlled\n\nTemperature: 300-400 degree celcius\n\nAir Flow Direction: Dual Air Flow\n\nMax. Temperature:400 degree celcius"
 		}
 	},
 	{
@@ -256,17 +256,6 @@
 		"id": 27,
 		"url": "https://live.staticflickr.com/65535/50325728411_c8ae10ac11_o.png",
 		"variableName": "DEK Printer 03i",
-		"typeName": "Machine",
-		"values": {
-			"manufacturer": "DEK",
-			"category": "Printer",
-			"description": ""
-		}
-	},
-	{
-		"id": 28,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2017/03/20170316180030030.jpg",
-		"variableName": "DEK Printer 02i",
 		"typeName": "Machine",
 		"values": {
 			"manufacturer": "DEK",
@@ -309,7 +298,7 @@
 	},
 	{
 		"id": 30,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121054335433.jpg",
+		"url": "https://live.staticflickr.com/65535/50325075098_d3a03dbcee_o.png",
 		"variableName": "YAMAHA FT 8x4 Feeder (0603)",
 		"typeName": "Parts",
 		"values": {
@@ -321,23 +310,11 @@
 	},
 	{
 		"id": 31,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609101629102910.jpg",
+		"url": "https://live.staticflickr.com/65535/50325075098_d3a03dbcee_o.png",
 		"variableName": "YAMAHA FT 8X2 Feeder (0402)",
 		"typeName": "Parts",
 		"values": {
 			"partNumber":"31",
-			"manufacturer": "YAMAHA",
-			"category": "Feeder",
-			"description": ""
-		}
-	},
-	{
-		"id": 32,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609101649434943.jpg",
-		"variableName": "YAMAHA FS 8X4 Feeder",
-		"typeName": "Parts",
-		"values": {
-			"partNumber":"32",
 			"manufacturer": "YAMAHA",
 			"category": "Feeder",
 			"description": ""
@@ -538,7 +515,7 @@
 	},
 	
 	{
-		"id": 54,
+		"id": "33 Nozzle",
 		"url": "https://live.staticflickr.com/65535/50325846031_31c94058eb_o.png",
 		"variableName": "YAMAHA YV100II 33 Nozzle",
 		"typeName": "Parts",
@@ -635,7 +612,7 @@
 	},
 	{
 		"id": 64,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121125202520.jpg",
+		"url": "https://live.staticflickr.com/65535/50365943803_90d5f08eca_o.png",
 		"variableName": "GSF-Y03 YAMAHA Stick Feeder",
 		"typeName": "Parts",
 		"values": {
@@ -647,7 +624,7 @@
 	},
 	{
 		"id": 65,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912112608268.jpg",
+		"url": "https://live.staticflickr.com/65535/50365943803_90d5f08eca_o.png",
 		"variableName": "GSF-Y04 YAMAHA Stick Feeder",
 		"typeName": "Parts",
 		"values": {
@@ -659,7 +636,7 @@
 	},
 	{
 		"id": 66,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121131373137.jpg",
+		"url": "https://live.staticflickr.com/65535/50325741976_445bcc92f5_o.png",
 		"variableName": "YAMAHA Tray",
 		"typeName": "Parts",
 		"values": {
@@ -671,7 +648,7 @@
 	},
 	{
 		"id": 67,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912113107317.jpg",
+		"url": "https://live.staticflickr.com/65535/50325918462_02d21cde00_o.png",
 		"variableName": "YAMAHA Tray",
 		"typeName": "Parts",
 		"values": {
@@ -683,19 +660,19 @@
 	},
 	{
 		"id": 68,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121133133313.jpg",
+		"url": "https://live.staticflickr.com/65535/50365996078_51c1f51781_o.png",
 		"variableName": "JUKI 105",
 		"typeName": "Parts",
 		"values": {
 			"partNumber":"68",
 			"manufacturer": "JUKI",
-			"category": "Nozzel",
+			"category": "Nozzle",
 			"description": "Model: JUKI 105 Nozzle"
 		}
 	},
 	{
 		"id": 69,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121133493349.jpg",
+		"url": "https://live.staticflickr.com/65535/50366850357_953b666b06_o.png",
 		"variableName": "JUKI 106",
 		"typeName": "Parts",
 		"values": {
@@ -707,7 +684,7 @@
 	},
 	{
 		"id": 70,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121341164116.jpg",
+		"url": "https://live.staticflickr.com/65535/50366691421_c2c40e7c3a_o.png",
 		"variableName": "JUKI 201",
 		"typeName": "Parts",
 		"values": {
@@ -719,7 +696,7 @@
 	},
 	{
 		"id": 71,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121340414041.jpg",
+		"url": "https://live.staticflickr.com/65535/50366691401_07e8e04519_o.png",
 		"variableName": "JUKI 202",
 		"typeName": "Parts",
 		"values": {
@@ -730,32 +707,8 @@
 		}
 	},
 	{
-		"id": 72,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912134004404.jpg",
-		"variableName": "JUKI 203",
-		"typeName": "Parts",
-		"values": {
-			"partNumber":"72",
-			"manufacturer": "JUKI",
-			"category": "Nozzel",
-			"description": "Model: JUKI 203 Nozzle"
-		}
-	},
-	{
-		"id": 73,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121335293529.jpg",
-		"variableName": "JUKI 204",
-		"typeName": "Parts",
-		"values": {
-			"partNumber":"73",
-			"manufacturer": "JUKI",
-			"category": "Nozzel",
-			"description": "Model: JUKI 204 Nozzle"
-		}
-	},
-	{
 		"id": 74,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121334453445.jpg",
+		"url": "https://live.staticflickr.com/65535/50366807867_5a9c089f80_o.png",
 		"variableName": "JUKI 500",
 		"typeName": "Parts",
 		"values": {
@@ -767,7 +720,7 @@
 	},
 	{
 		"id": 75,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912133406346.jpg",
+		"url": "https://live.staticflickr.com/65535/50365953603_f51f444227_o.png",
 		"variableName": "JUKI 501",
 		"typeName": "Parts",
 		"values": {
@@ -779,7 +732,7 @@
 	},
 	{
 		"id": 76,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912133302332.jpg",
+		"url": "https://live.staticflickr.com/65535/50366648961_59285c244f_o.png",
 		"variableName": "JUKI 502",
 		"typeName": "Parts",
 		"values": {
@@ -791,7 +744,7 @@
 	},
 	{
 		"id": 77,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121332203220.jpg",
+		"url": "https://live.staticflickr.com/65535/50366807912_71334b39af_o.png",
 		"variableName": "JUKI 503",
 		"typeName": "Parts",
 		"values": {
@@ -803,7 +756,7 @@
 	},
 	{
 		"id": 78,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121331353135.jpg",
+		"url": "https://live.staticflickr.com/65535/50365953528_f6cbebe716_o.png",
 		"variableName": "JUKI 504",
 		"typeName": "Parts",
 		"values": {
@@ -815,7 +768,7 @@
 	},
 	{
 		"id": 79,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121330573057.jpg",
+		"url": "https://live.staticflickr.com/65535/50365953523_84f0014531_o.png",
 		"variableName": "JUKI 505",
 		"typeName": "Parts",
 		"values": {
@@ -827,7 +780,7 @@
 	},
 	{
 		"id": 80,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912133009309.jpg",
+		"url": "https://live.staticflickr.com/65535/50366648876_ba027bf3d8_o.png",
 		"variableName": "JUKI 506",
 		"typeName": "Parts",
 		"values": {
@@ -839,7 +792,7 @@
 	},
 	{
 		"id": 81,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/20160912114200420.jpg",
+		"url": "https://live.staticflickr.com/65535/50366648836_d3d96a8481_o.png",
 		"variableName": "JUKI 507",
 		"typeName": "Parts",
 		"values": {
@@ -851,7 +804,7 @@
 	},
 	{
 		"id": 82,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121136383638.jpg",
+		"url": "https://live.staticflickr.com/65535/50366807697_5d3b3da7da_o.png",
 		"variableName": "JUKI 508",
 		"typeName": "Parts",
 		"values": {
@@ -863,7 +816,7 @@
 	},
 	{
 		"id": 83,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121135473547.jpg",
+		"url": "https://live.staticflickr.com/65535/50366648711_32f85c8a2a_o.png",
 		"variableName": "JUKI 520",
 		"typeName": "Parts",
 		"values": {
@@ -875,7 +828,7 @@
 	},
 	{
 		"id": 84,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121730313031.jpg",
+		"url": "https://live.staticflickr.com/65535/50366051583_23a32cc4b9_o.png",
 		"variableName": "GSF-J01 JUKI Stick Feeder",
 		"typeName": "Parts",
 		"values": {
@@ -887,7 +840,7 @@
 	},
 	{
 		"id": 85,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121731213121.jpg",
+		"url": "https://live.staticflickr.com/65535/50366051583_23a32cc4b9_o.png",
 		"variableName": "GSF-J02 JUKI Stick Feeder",
 		"typeName": "Parts",
 		"values": {
@@ -899,7 +852,7 @@
 	},
 	{
 		"id": 86,
-		"url": "http://www.ksunsmt.com/dgsjtk201601065119/uploadfiles/2016/09/201609121731213121.jpg",
+		"url": "https://live.staticflickr.com/65535/50366051583_23a32cc4b9_o.png",
 		"variableName": "GSF-J03 JUKI Stick Feeder",
 		"typeName": "Parts",
 		"values": {
